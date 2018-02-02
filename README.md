@@ -11,7 +11,7 @@ Implementation - textingMain.py
 - Phong shading done on ball and lamp.
 - Two types of transformation done on Ball and Lamp that is Frustum and Ortho and Frustum projection on Floor.
 
-##### Three camera positions are given - 
+#### Three camera positions are given - 
 1. Front view (Default)
      EyePoint = -0.5, 1.0, 7.5
      Lookat Up = 0.0, 1.0, 0.0
@@ -49,5 +49,5 @@ k           Change camera position to top view
 l           Change camera position to front distant
 q, Q        quit
 
-##### Notes -
+#### Notes -
 Blender used to create .obj(wavefront) file for each object. It gave an objects vertices, normals, UV, Elements, Normal Indices.
