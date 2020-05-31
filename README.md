@@ -51,3 +51,5 @@ q, Q        quit
 
 #### Notes -
 Blender used to create .obj(wavefront) file for each object. It gave an objects vertices, normals, UV, Elements, Normal Indices.
+
+Done in Python
